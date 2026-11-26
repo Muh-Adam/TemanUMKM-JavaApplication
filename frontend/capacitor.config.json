@@ -1,0 +1,6 @@
+{
+  "appId": "id.temanumkm.app",
+  "appName": "TemanUMKM",
+  "webDir": "out",
+  "server": { "androidScheme": "http", "cleartext": true }
+}
